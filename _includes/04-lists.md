@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* 1st: 🎄
+* 2nd: 😄
+* 3rd: 🇦🇴
+  * No
+  * Sé
+  * Qué
+  * Más
+  * Poner
